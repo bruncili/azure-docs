@@ -274,7 +274,7 @@ If you need to keep the current protected data in the old vault and continue the
   - Azure Backup service will retain the recovery points that have been backed up on the old vault.
   - You'll need to pay to keep the recovery points in the old vault (see [Azure Backup pricing](azure-backup-pricing.md) for details).
   - You'll be able to restore the VM, if needed, from the old vault.
-  - The first backup on the new vault of the VM in the new resource will be an initial replica.
+  - The first backup on the new vault of the VM in the new resource group will be an initial replica.
 
 ## Next steps
 
